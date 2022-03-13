@@ -45,11 +45,6 @@
     "typedoc-plugin-no-inherit": "^1.2.0",
     "typescript": "^3.9.7"
   },
-  "dependencies": {
-    "@discordjs/collection": "^0.5.0",
-    "petitio": "^1.4.0",
-    "ws": "github:SycerNetwork-Inc/ws"
-  },
   "eslintConfig": {
     "root": true,
     "parser": "@typescript-eslint/parser",
